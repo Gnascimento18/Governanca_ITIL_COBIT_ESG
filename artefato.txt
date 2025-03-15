@@ -1,0 +1,5 @@
+Nome do Projeto: Gestão de Configuração em TI 
+
+Objetivo: Armazenar artefatos baseado na Governança, ITIL, COBIT e ESG.  
+Data de criação: 15/03/2025
+Criado por: Gabriel Santos do Nascimento 
