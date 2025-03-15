@@ -1,4 +1,4 @@
-# Governanca_ITIL_COBIT_ESG
+# Artefatos de Softwares 
 Repositório para armazenar artefatos de projeto, seguindo boas práticas de Governança, ITIL, COBIT e ESG.
 # Repositório de Gestão de Configuração  
 Este repositório foi criado para armazenar artefatos de projeto seguindo práticas de **Governança, ITIL, COBIT e ESG**.  
