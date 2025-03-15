@@ -10,5 +10,5 @@ Este repositório foi criado para armazenar artefatos de projeto seguindo práti
 - **Documentacao/** → Diagramas, manuais, requisitos.  
 - **Codigo_Fonte/** → Código do projeto.  
 - **Casos_de_Teste/** → Validação de requisitos.
-- **Casos_de_Teste/** → Validação de requisitos.  
+- **designs/ arquitetura_bd.sql/** 
 
